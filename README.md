@@ -1,4 +1,4 @@
-# Iran Cyber Threat Actor Matrix
+# 🇮🇷 Iran Cyber Threat Actor Matrix
 
 ## Overview
 
@@ -135,6 +135,19 @@ This project is a **conceptual and analytical model** based on publicly availabl
 ## 👤 Author
 
 Akoparna B
+
+---
+
+## 📚 Sources
+
+* MITRE ATT&CK Framework ([https://attack.mitre.org](https://attack.mitre.org))
+* CISA Advisory: Iranian Government-Sponsored APT Activity
+* Microsoft Threat Intelligence reports on Iranian actors
+* Mandiant (Google Cloud) Threat Intelligence reports
+* CrowdStrike Global Threat Report
+* Palo Alto Unit 42 research on Iranian threat groups
+* Recorded Future threat intelligence reports
+* Open-source reporting on APT33, APT34 (OilRig), APT35 (Charming Kitten), MuddyWater, and Agrius
 
 ---
 
